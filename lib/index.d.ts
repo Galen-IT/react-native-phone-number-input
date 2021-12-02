@@ -278,6 +278,7 @@ export default class PhoneInput extends Component<
     | "UG"
     | "UA"
     | "AE"
+    | "AE2"
     | "GB"
     | "US"
     | "UM"
